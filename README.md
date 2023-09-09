@@ -6,7 +6,7 @@ I'm a passionate programmer with a love for coding and problem-solving. My main 
 
 ## 🎓 Current study
 
-- Currently, I studying [Information technology ] at  Noble University.
+- Currently, I studying Information technology at  Noble University Gujrat.
 
 ## 🌱 What I'm Learning
 
