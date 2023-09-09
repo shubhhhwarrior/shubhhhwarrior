@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+shubhhhwarrior;Explore+the+world+of+code;Sharing+exciting+projects+and+scripts;Enjoy+your+stay!&width=500&height=180">
+</p>
+
 # Hi there! 👋 I'm Shubhhg
 
 ![Profile Picture](https://graph.org/file/6bc974bfde437068a320d.jpg)
