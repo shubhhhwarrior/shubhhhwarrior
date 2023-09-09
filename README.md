@@ -6,6 +6,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhhhwarrior&show_icons=true&theme=radical)
 
+## Here are the programming languages I use:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhhhwarrior&layout=compact)
+
+
 I'm a passionate programmer with a love for coding and problem-solving. My main expertise likes Python, HTML CSS,Js. I enjoy creating software that can help other peoples.
 
 ## 🎓 Current study
