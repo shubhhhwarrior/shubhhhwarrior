@@ -2,6 +2,10 @@
 
 ![Profile Picture](https://graph.org/file/6bc974bfde437068a320d.jpg)
 
+## I'm a passionate programmer with a love for coding and problem-solving. My GitHub journey so far:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhhhwarrior&show_icons=true&theme=radical)
+
 I'm a passionate programmer with a love for coding and problem-solving. My main expertise likes Python, HTML CSS,Js. I enjoy creating software that can help other peoples.
 
 ## 🎓 Current study
