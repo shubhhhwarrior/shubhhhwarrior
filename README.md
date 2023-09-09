@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Shubhh..
 
 ![Profile Picture](https://graph.org/file/6bc974bfde437068a320d.jpg)
 
-I'm a passionate programmer with a love for coding and problem-solving. My main expertise lies in [mention your main programming languages or technologies]. I enjoy creating software that [mention what you enjoy doing with your programming skills].
+I'm a passionate programmer with a love for coding and problem-solving. My main expertise likes Python, HTML CSS,Js. I enjoy creating software that can help other peoples.
 
 ## 💼 Current Work
 
