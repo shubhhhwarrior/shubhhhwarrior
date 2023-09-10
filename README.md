@@ -29,7 +29,7 @@ I'm always eager to expand my knowledge and keep up with the latest tech trends.
 Feel free to reach out to me for collaboration, questions, or just to chat. You can find me on:
 
 - [GitHub](https://github.com/shubhhhwarrior)
-- [TeleGram](https://telegram.dog/shubhhh_x3)
+- [Telegram](https://telegram.dog/shubhhh_x3)
 - [Instagram](http://instagram.com/shubhhh_x3)
 
 ## 📫 How to Reach Me
