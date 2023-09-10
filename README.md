@@ -22,11 +22,11 @@ I'm a passionate programmer with a love for coding and problem-solving. My main 
 
 ## 🌱 What I'm Learning
 
-I'm always eager to expand my knowledge and keep up with the latest tech trends. Right now, I'm focused on learning Coding, E-sport, learning computer languages.
+- I'm always eager to expand my knowledge and keep up with the latest tech trends. Right now, I'm focused on learning Coding, E-sport, learning computer languages.
 
 ## 💬 Let's Connection
 
-Feel free to reach out to me for collaboration, questions, or just to chat. You can find me on:
+- Feel free to reach out to me for collaboration, questions, or just to chat. You can find me on:
 
 - [GitHub](https://github.com/shubhhhwarrior)
 - [Telegram](https://telegram.dog/shubhhh_x3)
