@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=hey+there+👋🏻;it's+me+shubhhh+🥷🏻;explore+my+world;star+my+repo+its+really+apperciet+me!&width=1000&height=360">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=hey+there+👋🏻;it's+me+shubhhh+🥷🏻;explore+my+world;star+my+repo+its+really+appreciate+me!&width=500&height=160">
 </p>
 
 # Hi there! 👋 I'm Shubhhh
