@@ -5,6 +5,8 @@
 # Hi there! 👋 I'm Shubhhh
 ![Profile Picture](https://graph.org/file/6bc974bfde437068a320d.jpg)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhhhwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="shubhhhwarrior" /> </p>
+
 ## I'm a passionate programmer with a love for coding and problem-solving. My GitHub journey so far:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhhhwarrior&show_icons=true&theme=radical)
