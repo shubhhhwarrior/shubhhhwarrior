@@ -15,8 +15,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhhhwarrior&layout=compact)
 
+## My github streaks :
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhhhwarrior&" alt="shubhhhwarrior" /></p>
 
-I'm a passionate programmer with a love for coding and problem-solving. My main expertise likes Python, HTML CSS,Js. I enjoy creating software that can help other peoples.
+I'ᴍ ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴡɪᴛʜ ᴀ ʟᴏᴠᴇ ғᴏʀ ᴄᴏᴅɪɴɢ ᴀɴᴅ ᴘʀᴏʙʟᴇᴍ-sᴏʟᴠɪɴɢ. Mʏ ᴍᴀɪɴ ᴇxᴘᴇʀᴛɪsᴇ ʟɪᴋᴇs Pʏᴛʜᴏɴ, HTML CSS,Js. I ᴇɴᴊᴏʏ ᴄʀᴇᴀᴛɪɴɢ sᴏғᴛᴡᴀʀᴇ ᴛʜᴀᴛ ᴄᴀɴ ʜᴇʟᴘ ᴏᴛʜᴇʀ ᴘᴇᴏᴘʟᴇs.
 
 ## 🎓 Current study
 
