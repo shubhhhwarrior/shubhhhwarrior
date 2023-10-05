@@ -32,6 +32,11 @@ I'ᴍ ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴡɪᴛʜ ᴀ ʟ�
 
 - Feel free to reach out to me for collaboration, questions, or just to chat. You can find me on:
 
+## Buy me a coffee 💲
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shubhhhwarrior"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shubhhhwarrior" /></a></p><br><br>
+<p>
+
+## My social media
 - [GitHub](https://github.com/shubhhhwarrior)
 - [Telegram](https://telegram.dog/shubhhh_x3)
 - [Instagram](http://instagram.com/shubhhh_x3)
