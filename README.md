@@ -9,7 +9,7 @@
 
 ## I'm a passionate programmer with a love for coding and problem-solving. My GitHub journey so far:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhhhwarrior&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=shubhhhwarrior)
 
 ## Here are the programming languages I use:
 
