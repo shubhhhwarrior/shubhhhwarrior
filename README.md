@@ -1,4 +1,3 @@
-
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Parkinsans&weight=200&pause=1000&color=2E4C9A&background=FF000000&center=true&multiline=true&width=435&lines=Hey+there%F0%9F%91%8B%F0%9F%8F%BB;it's+me+shubhhh+%F0%9F%A5%B7%F0%9F%8F%BB;explore+my+world;star+my+repo+its+really+appreciate+me+!!!)](https://git.io/typing-svg)
 
 # Hi there! 👋 I'm Shubhhh
