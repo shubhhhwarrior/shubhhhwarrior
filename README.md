@@ -1,41 +1,67 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Parkinsans&weight=200&pause=1000&color=2E4C9A&background=FF000000&center=true&multiline=true&width=435&lines=Hey+there%F0%9F%91%8B%F0%9F%8F%BB;it's+me+shubhhh+%F0%9F%A5%B7%F0%9F%8F%BB;explore+my+world;star+my+repo+its+really+appreciate+me+!!!)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=Shubhhh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+</div>
 
-# Hi there! 👋 I'm Shubhhh
-![Profile Picture](https://graph.org/file/6bc974bfde437068a320d.jpg)
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C3BF7&center=true&vCenter=true&random=false&width=440&lines=Code.+Create.+Solve.+Repeat.;Computer+Science+Student" alt="Typing SVG" /></a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhhhwarrior&label=Profile%20views&color=0e75b6&style=flat" alt="shubhhhwarrior" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunalg932&style=for-the-badge&color=6C3BF7" alt="Profile views" />
+</p>
 
-## I'm a passionate programmer with a love for coding and problem-solving. My GitHub journey so far:
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px"> **About Me**
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=shubhhhwarrior)
+<img align="right" height="240" width="390" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-## Here are the programming languages I use:
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-9cf?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Learning-Rust-dea584?style=for-the-badge&logo=rust" alt="Learning" />
+  <img src="https://img.shields.io/badge/Location-Pune,%20India-success?style=for-the-badge" alt="Location" />
+</p>
 
+- 🎓 Computer Science student from Gujrat, India
+- 🔭 Currently exploring cloud technologies and AI integrations
+- 🦀 Learning Rust programming language
+<br/>
+<br/>
 
-I'ᴍ ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ᴡɪᴛʜ ᴀ ʟᴏᴠᴇ ғᴏʀ ᴄᴏᴅɪɴɢ ᴀɴᴅ ᴘʀᴏʙʟᴇᴍ-sᴏʟᴠɪɴɢ. Mʏ ᴍᴀɪɴ ᴇxᴘᴇʀᴛɪsᴇ ʟɪᴋᴇs Pʏᴛʜᴏɴ, HTML CSS,Js. I ᴇɴᴊᴏʏ ᴄʀᴇᴀᴛɪɴɢ sᴏғᴛᴡᴀʀᴇ ᴛʜᴀᴛ ᴄᴀɴ ʜᴇʟᴘ ᴏᴛʜᴇʀ ᴘᴇᴏᴘʟᴇs.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **GitHub Stats**
 
-## 🎓 Current study
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shubhhhwarrior&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+</div>
 
-- Currently, I studying Information technology at  Noble University Gujrat.
+<br/>
 
-## 🌱 What I'm Learning
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalg932&show_icons=true&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalg932&layout=compact&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="165px"/>
+</div>
 
-- I'm always eager to expand my knowledge and keep up with the latest tech trends. Right now, I'm focused on learning Coding, E-sport, learning computer languages.
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60px"> **Connect With Me**
 
-## 💬 Let's Connection
+<div align="center">
+  <a href="mailto:kunalgaikwad9322@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/kunalg932" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
-- Feel free to reach out to me for collaboration, questions, or just to chat. You can find me on:
+<br/>
 
-## Buy me a coffee 💲
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shubhhhwarrior"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shubhhhwarrior" /></a></p><br><br>
-<p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer" />
+</div>
 
-## My social media
-- [GitHub](https://github.com/shubhhhwarrior)
-- [Telegram](https://telegram.dog/shubhhh_x3)
-- [Instagram](http://instagram.com/shubhhh_x3)
-
-## 📫 How to Reach Me
-
-You can reach me via email at shubhhhwarrior@gmail.com
-Thanks for visiting my GitHub profile! 🙂
+<div align="center">
+  <i>"Build what you can't stop thinking about."</i>
+</div>
