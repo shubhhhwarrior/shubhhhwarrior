@@ -17,7 +17,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-9cf?style=for-the-badge" alt="Focus" />
   <img src="https://img.shields.io/badge/Learning-Rust-dea584?style=for-the-badge&logo=rust" alt="Learning" />
-  <img src="https://img.shields.io/badge/Location-Pune,%20India-success?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Junagadh,%20India-success?style=for-the-badge" alt="Location" />
 </p>
 
 - 🎓 Computer Science student from Gujrat, India
@@ -26,11 +26,9 @@
 <br/>
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **GitHub Stats**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> **GitHub Stats**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubhhhwarrior&theme=radical&row=1&column=6&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-</div>
+
 
 <br/>
 
@@ -51,9 +49,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+
 </div>
 
 <br/>
